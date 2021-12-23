@@ -10,5 +10,3 @@ Somethings about me :)
 - 🌱 I’m currently learning Javascript.
 - 💬 Ask me about anything :D.
 - ⚡ Fun fact: My life it's a fun fact ;-;
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mauriciomonta)  
